@@ -1,5 +1,5 @@
 {
-  "name": "express-api-template",
+  "name": "STACKA-API",
   "version": "0.0.1",
   "description": "",
   "main": "server.js",
@@ -11,7 +11,7 @@
     "s": "nodemon server.js",
     "debug-server": "DEBUG=express:* nodemon server.js"
   },
-  "author": "",
+  "author": "Nimay Ndolo",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^3.0.7",
